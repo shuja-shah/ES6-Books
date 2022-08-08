@@ -2,7 +2,7 @@
 
 # Awesome Book List!!
 
-> This a book list that is genreated from your local storage.
+> This a book list that is genreated from your local storage. It is Created Purely With Vanilla Ecmascript 6.
 
 
 ## Built With
